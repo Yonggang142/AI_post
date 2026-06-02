@@ -1,0 +1,1 @@
+This is an app that is meant for benchmarking AI images in an exciting way, through a leaderboard ranking system!
